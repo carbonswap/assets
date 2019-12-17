@@ -1,0 +1,214 @@
+{
+    "name": "Carbonswap List",
+    "timestamp": "2021-02-17T00:00:00.000Z",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 3
+    },
+    "keywords": [
+        "susu",
+        "carbonswap",
+        "exchange",
+        "finance",
+        "dex",
+        "green",
+        "sustainable"
+    ],
+    "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/susu.svg",
+    "tags": {
+        "stablecoin": {
+            "name": "stablecoin",
+            "description": "Tokens that are fixed to an external asset"
+        },
+        "ewfmember": {
+            "name": "ewfmember",
+            "description": "Token of an Energy Web Foundation member"
+        },
+        "zerocarbon": {
+            "name": "zero carbon",
+            "description": "Token of a project that is carbon neutral, sourced completely by renewables"
+        },
+        "wrapped": {
+            "name": "wrapped",
+            "description": "Tokens that are a wrapped version of their original, holding the same value"
+        },
+        "bridged": {
+            "name": "bridged",
+            "description": "Tokens that are bridged over from another chain"
+        },
+        "meme": {
+            "name": "meme",
+            "description": "Tokens that were created with no specific purpose, for fun"
+        },
+        "native": {
+            "name": "native",
+            "description": "Tokens that are native to the Energy Web Chain"
+        }
+    },
+    "tokens": [
+        {
+            "chainId": 1,
+            "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+            "name": "DAI",
+            "decimals": 18,
+            "symbol": "DAI",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x3862F260e94904aaAe628DdF427b1F662652BBD2.png",
+            "tags": [
+                "stablecoin"
+            ]
+        },
+        {
+            "chainId": 246,
+            "address": "0xB75776e562Fea80bc94a1f57ED8337bc575E051B",
+            "name": "ChainLink",
+            "decimals": 18,
+            "symbol": "LINK",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0xB75776e562Fea80bc94a1f57ED8337bc575E051B.png",
+            "tags": [
+                "bridged"
+            ]
+        },
+        {
+            "chainId": 246,
+            "address": "0x7f8a0AdD824c125D88a51c15814A9a34e5238b88",
+            "name": "Wrapped BTC",
+            "decimals": 18,
+            "symbol": "wBTC",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x7f8a0AdD824c125D88a51c15814A9a34e5238b88.png",
+            "tags": [
+                "wrapped",
+                "bridged"
+            ]
+        },
+        {
+            "chainId": 246,
+            "address": "0x593122AAE80A6Fc3183b2AC0c4ab3336dEbeE528",
+            "name": "Ocean Token",
+            "decimals": 18,
+            "symbol": "OCEAN",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x593122AAE80A6Fc3183b2AC0c4ab3336dEbeE528.png",
+            "tags": [
+                "bridged"
+            ]
+        },
+        {
+            "chainId": 246,
+            "address": "0xA41eC761EE36c5986F7C47F80173f63fD039261d",
+            "name": "AllianceBlock Token",
+            "decimals": 18,
+            "symbol": "ALBT",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0xA41eC761EE36c5986F7C47F80173f63fD039261d.png",
+            "tags": [
+                "bridged"
+            ]
+        },
+        {
+            "chainId": 246,
+            "address": "0x9DaD43ee9E09837aeAca21799c88613e8E7c67dd",
+            "name": "USD Coin",
+            "decimals": 18,
+            "symbol": "USDC",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x9DaD43ee9E09837aeAca21799c88613e8E7c67dd.png",
+            "tags": [
+                "stablecoin",
+                "bridged"
+            ]
+        },
+        {
+            "chainId": 246,
+            "address": "0x3862F260e94904aaAe628DdF427b1F662652BBD2",
+            "name": "DAI",
+            "decimals": 18,
+            "symbol": "DAI",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x3862F260e94904aaAe628DdF427b1F662652BBD2.png",
+            "tags": [
+                "stablecoin",
+                "bridged"
+            ]
+        },
+        {
+            "chainId": 246,
+            "address": "0x387f7D8D3360588a9A0B417F6C5DaAe64450942e",
+            "name": "Tether USD",
+            "decimals": 18,
+            "symbol": "USDT",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x387f7D8D3360588a9A0B417F6C5DaAe64450942e.png",
+            "tags": [
+                "stablecoin",
+                "bridged"
+            ]
+        },
+        {
+            "chainId": 246,
+            "address": "0xe1BCdcd419Eb96d67D3eAb707FC108eD9172aDc7",
+            "name": "Wrapped ETH",
+            "decimals": 18,
+            "symbol": "WETH",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0xe1BCdcd419Eb96d67D3eAb707FC108eD9172aDc7.png",
+            "tags": [
+                "wrapped",
+                "bridged"
+            ]
+        },
+        {
+            "chainId": 246,
+            "address": "0x26E4991a72728b1a9B1044345e5bF9293E0A1434",
+            "name": "SolarCoin",
+            "decimals": 18,
+            "symbol": "SLR",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x94512DA6dA903606B15d4AfbE12333c1F7F65BeC.png",
+            "tags": [
+                "zerocarbon",
+                "native"
+            ]
+        },
+        {
+            "chainId": 246,
+            "address": "0x6b3bd0478DF0eC4984b168Db0E12A539Cc0c83cd",
+            "name": "Wrapped Energy Web Token",
+            "decimals": 18,
+            "symbol": "WEWT",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x6b3bd0478DF0eC4984b168Db0E12A539Cc0c83cd.png",
+            "tags": [
+                "wrapped",
+                "zerocarbon"
+            ]
+        },
+        {
+            "chainId": 73799,
+            "address": "0xDb8B4264b1777e046267b4Cc123f0C9E029cEB2c",
+            "name": "Wrapped Volta Token",
+            "decimals": 18,
+            "symbol": "WVT",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0xDb8B4264b1777e046267b4Cc123f0C9E029cEB2c.png",
+            "tags": [
+                "wrapped",
+                "zerocarbon"
+            ]
+        },
+        {
+            "chainId": 73799,
+            "address": "0x6AB434C660c38e8BDDF93F570CbC263104d31bA6",
+            "name": "Funny DAI",
+            "decimals": 18,
+            "symbol": "fDAI",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x6AB434C660c38e8BDDF93F570CbC263104d31bA6.png",
+            "tags": [
+                "meme",
+                "stablecoin"
+            ]
+        },
+        {
+            "chainId": 73799,
+            "address": "0x94512DA6dA903606B15d4AfbE12333c1F7F65BeC",
+            "name": "Solarcoin",
+            "decimals": 18,
+            "symbol": "SLR",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x94512DA6dA903606B15d4AfbE12333c1F7F65BeC.png",
+            "tags": [
+                "zerocarbon"
+            ]
+        }
+    ]
+}
