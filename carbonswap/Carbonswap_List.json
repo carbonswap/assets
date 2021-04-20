@@ -58,15 +58,26 @@
                 "stablecoin"
             ]
         },
+  {
+            "chainId": 1,
+            "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+            "name": "DAI",
+            "decimals": 18,
+            "symbol": "DAI",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x3862F260e94904aaAe628DdF427b1F662652BBD2.png",
+            "tags": [
+                "stablecoin"
+            ]
+        },
         {
             "chainId": 246,
-            "address": "0xB75776e562Fea80bc94a1f57ED8337bc575E051B",
-            "name": "ChainLink",
+            "address": "0x3Dae074A5B125B9847e41b5Ee20aC86D92ab77b1",
+            "name": "Smudge",
             "decimals": 18,
-            "symbol": "LINK",
-            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0xB75776e562Fea80bc94a1f57ED8337bc575E051B.png",
+            "symbol": "SMUDGE",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x3Dae074A5B125B9847e41b5Ee20aC86D92ab77b1.png",
             "tags": [
-                "bridged"
+                "Meme"
             ]
         },
         {
@@ -175,6 +186,7 @@
                 "zerocarbon"
             ]
         },
+
         {
             "chainId": 73799,
             "address": "0xDb8B4264b1777e046267b4Cc123f0C9E029cEB2c",
@@ -199,6 +211,7 @@
                 "stablecoin"
             ]
         },
+
         {
             "chainId": 73799,
             "address": "0x94512DA6dA903606B15d4AfbE12333c1F7F65BeC",
