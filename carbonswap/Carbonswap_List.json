@@ -4,7 +4,7 @@
     "version": {
         "major": 1,
         "minor": 5,
-        "patch": 6
+        "patch": 7
     },
     "keywords": [
         "susu",
@@ -51,7 +51,7 @@
             "chainId": 246,
             "address": "0x1C41d2223dc95605fc4395294e65f170A4Fb1b40",
             "name": "Susu Party",
-            "decimals": 9,
+            "decimals": 18,
             "symbol": "xSUSU",
             "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x1C41d2223dc95605fc4395294e65f170A4Fb1b40.png",
             "tags": [
