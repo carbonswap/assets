@@ -3,7 +3,7 @@
     "timestamp": "2021-02-17T00:00:00.000Z",
     "version": {
         "major": 1,
-        "minor": 5,
+        "minor": 6,
         "patch": 7
     },
     "keywords": [
@@ -47,6 +47,51 @@
         }
     },
     "tokens": [
+        {
+            "chainId": 1,
+            "address": "0xE897Ce745C7ab3eC30927F29028eE0BD3DDbf0c7",
+            "name": "Susu Token",
+            "decimals": 18,
+            "symbol": "SUSU",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0xE897Ce745C7ab3eC30927F29028eE0BD3DDbf0c7.png",
+            "tags": [
+                "green",
+                "bridged"
+            ]
+        },
+        {
+            "chainId": 246,
+            "address": "0x74Ff9a96eA3E529332d9a1a7d0aba7A27030F867",
+            "name": "Uniswap",
+            "decimals": 18,
+            "symbol": "UNI",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x74Ff9a96eA3E529332d9a1a7d0aba7A27030F867.png",
+            "tags": [
+                "bridged"
+            ]
+        },
+        {
+            "chainId": 246,
+            "address": "0x84128D6c485753F4921Bf9E06dfED4cd9D06B2e9",
+            "name": "Republic Token",
+            "decimals": 18,
+            "symbol": "REN",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x84128D6c485753F4921Bf9E06dfED4cd9D06B2e9.png",
+            "tags": [
+                "bridged"
+            ]
+        },
+        {
+            "chainId": 246,
+            "address": "0xa208d8aAc0a342597d76960BC7eC1aC0F02b7119",
+            "name": "Truebit",
+            "decimals": 18,
+            "symbol": "TRU",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0xa208d8aAc0a342597d76960BC7eC1aC0F02b7119.png",
+            "tags": [
+                "bridged"
+            ]
+        },
         {
             "chainId": 246,
             "address": "0x1C41d2223dc95605fc4395294e65f170A4Fb1b40",
