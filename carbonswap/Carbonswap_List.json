@@ -4,7 +4,7 @@
     "version": {
         "major": 1,
         "minor": 7,
-        "patch": 7
+        "patch": 8
     },
     "keywords": [
         "susu",
@@ -60,17 +60,6 @@
             ]
         },
         {
-            "chainId": 56,
-            "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
-            "name": "BUSD Token",
-            "decimals": 18,
-            "symbol": "BUSD",
-            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.png",
-            "tags": [
-                "stablecoin"
-            ]
-        },
-        {
             "chainId": 246,
             "address": "0x984E5dF7E6ed5450f0df08628F9EC4EB33d0f2b0",
             "name": "PancakeSwap Token",
@@ -79,38 +68,6 @@
             "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x984E5dF7E6ed5450f0df08628F9EC4EB33d0f2b0.png",
             "tags": [
                 "bridged"
-            ]
-        },
-        {
-            "chainId": 56,
-            "address": "0x772543750Ea54c393c2E3BE4Ae48F2616631F38F",
-            "name": "Smudge",
-            "decimals": 18,
-            "symbol": "SMUDGE",
-            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x772543750Ea54c393c2E3BE4Ae48F2616631F38F.png",
-            "tags": [
-                "green",
-                "meme",
-                "bridged"
-            ]
-        },
-        {
-            "chainId": 56,
-            "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
-            "name": "PancakeSwap Token",
-            "decimals": 18,
-            "symbol": "Cake",
-            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
-        },
-        {
-            "chainId": 56,
-            "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-            "name": "Wrapped BNB",
-            "decimals": 18,
-            "symbol": "WBNB",
-            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png",
-            "tags": [
-                "wrapped"
             ]
         },
         {
@@ -123,43 +80,6 @@
             "tags": [
                 "bridged",
                 "wrapped"
-            ]
-        },
-        {
-            "chainId": 56,
-            "address": "0x4fC53aEA7A4C6e898a8fA2545d725a0B48c614A4",
-            "name": "Wrapped Energy Web Token",
-            "decimals": 18,
-            "symbol": "WEWT",
-            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x4fC53aEA7A4C6e898a8fA2545d725a0B48c614A4.png",
-            "tags": [
-                "bridged",
-                "wrapped",
-                "green"
-            ]
-        },
-        {
-            "chainId": 56,
-            "address": "0xD39E50BFE00e6447aD4492e118bEfb6983df2c4A",
-            "name": "Susu Token",
-            "decimals": 18,
-            "symbol": "SUSU",
-            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0xD39E50BFE00e6447aD4492e118bEfb6983df2c4A.png",
-            "tags": [
-                "green",
-                "bridged"
-            ]
-        },
-        {
-            "chainId": 1,
-            "address": "0xE897Ce745C7ab3eC30927F29028eE0BD3DDbf0c7",
-            "name": "Susu Token",
-            "decimals": 18,
-            "symbol": "SUSU",
-            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0xE897Ce745C7ab3eC30927F29028eE0BD3DDbf0c7.png",
-            "tags": [
-                "green",
-                "bridged"
             ]
         },
         {
@@ -320,17 +240,6 @@
             "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x931bAD405C204b27c107D6e62594E74d9e9227f7.png",
             "tags": [
                 "bridged"
-            ]
-        },
-        {
-            "chainId": 1,
-            "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-            "name": "DAI",
-            "decimals": 18,
-            "symbol": "DAI",
-            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x3862F260e94904aaAe628DdF427b1F662652BBD2.png",
-            "tags": [
-                "stablecoin"
             ]
         },
         {
@@ -496,6 +405,97 @@
                 "green",
                 "native"
             ]
-        }
+        },
+        {
+            "chainId": 1,
+            "address": "0xE897Ce745C7ab3eC30927F29028eE0BD3DDbf0c7",
+            "name": "Susu Token",
+            "decimals": 18,
+            "symbol": "SUSU",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0xE897Ce745C7ab3eC30927F29028eE0BD3DDbf0c7.png",
+            "tags": [
+                "green",
+                "bridged"
+            ]
+        },
+        {
+            "chainId": 1,
+            "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+            "name": "DAI",
+            "decimals": 18,
+            "symbol": "DAI",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x3862F260e94904aaAe628DdF427b1F662652BBD2.png",
+            "tags": [
+                "stablecoin"
+            ]
+        },
+        {
+            "chainId": 56,
+            "address": "0x4fC53aEA7A4C6e898a8fA2545d725a0B48c614A4",
+            "name": "Wrapped Energy Web Token",
+            "decimals": 18,
+            "symbol": "WEWT",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x4fC53aEA7A4C6e898a8fA2545d725a0B48c614A4.png",
+            "tags": [
+                "bridged",
+                "wrapped",
+                "green"
+            ]
+        },
+        {
+            "chainId": 56,
+            "address": "0xD39E50BFE00e6447aD4492e118bEfb6983df2c4A",
+            "name": "Susu Token",
+            "decimals": 18,
+            "symbol": "SUSU",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0xD39E50BFE00e6447aD4492e118bEfb6983df2c4A.png",
+            "tags": [
+                "green",
+                "bridged"
+            ]
+        },
+        {
+            "chainId": 56,
+            "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+            "name": "BUSD Token",
+            "decimals": 18,
+            "symbol": "BUSD",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.png",
+            "tags": [
+                "stablecoin"
+            ]
+        },
+        {
+            "chainId": 56,
+            "address": "0x772543750Ea54c393c2E3BE4Ae48F2616631F38F",
+            "name": "Smudge",
+            "decimals": 18,
+            "symbol": "SMUDGE",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x772543750Ea54c393c2E3BE4Ae48F2616631F38F.png",
+            "tags": [
+                "green",
+                "meme",
+                "bridged"
+            ]
+        },
+        {
+            "chainId": 56,
+            "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+            "name": "PancakeSwap Token",
+            "decimals": 18,
+            "symbol": "Cake",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
+        },
+        {
+            "chainId": 56,
+            "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+            "name": "Wrapped BNB",
+            "decimals": 18,
+            "symbol": "WBNB",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png",
+            "tags": [
+                "wrapped"
+            ]
+        },
     ]
 }
