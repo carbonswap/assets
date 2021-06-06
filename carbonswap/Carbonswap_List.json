@@ -496,6 +496,19 @@
             "tags": [
                 "wrapped"
             ]
+        },
+		{
+            "chainId": 246,
+            "address": "0xEE6b9F75Cc61Ca992e74E0aD63e59bB9972fC2eE",
+            "name": "Energy DOGE",
+            "decimals": 18,
+            "symbol": "EDOGE",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0xEE6b9F75Cc61Ca992e74E0aD63e59bB9972fC2eE.png",
+            "tags": [
+                "meme",
+                "green",
+                "native"
+            ]
         }
     ]
 }
