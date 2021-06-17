@@ -3,8 +3,8 @@
     "timestamp": "2021-02-17T00:00:00.000Z",
     "version": {
         "major": 1,
-        "minor": 0,
-        "patch": 3
+        "minor": 7,
+        "patch": 9
     },
     "keywords": [
         "susu",
@@ -25,9 +25,9 @@
             "name": "ewfmember",
             "description": "Token of an Energy Web Foundation member"
         },
-        "zerocarbon": {
-            "name": "zero carbon",
-            "description": "Token of a project that is carbon neutral, sourced completely by renewables"
+        "green": {
+            "name": "green",
+            "description": "Token of a project that is completely renewably powered"
         },
         "wrapped": {
             "name": "wrapped",
@@ -48,14 +48,198 @@
     },
     "tokens": [
         {
-            "chainId": 1,
-            "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-            "name": "DAI",
+            "chainId": 246,
+            "address": "0x03Ac08Fbf34e969733DDC77E6E71E65494b5c380",
+            "name": "BUSD Token",
             "decimals": 18,
-            "symbol": "DAI",
-            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x3862F260e94904aaAe628DdF427b1F662652BBD2.png",
+            "symbol": "BUSD",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x03Ac08Fbf34e969733DDC77E6E71E65494b5c380.png",
             "tags": [
+                "bridged",
                 "stablecoin"
+            ]
+        },
+        {
+            "chainId": 246,
+            "address": "0x984E5dF7E6ed5450f0df08628F9EC4EB33d0f2b0",
+            "name": "PancakeSwap Token",
+            "decimals": 18,
+            "symbol": "Cake",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x984E5dF7E6ed5450f0df08628F9EC4EB33d0f2b0.png",
+            "tags": [
+                "bridged"
+            ]
+        },
+        {
+            "chainId": 246,
+            "address": "0x6eEf0941dDc0dEdcDb92C34752B558030B580d33",
+            "name": "Wrapped BNB",
+            "decimals": 18,
+            "symbol": "WBNB",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x6eEf0941dDc0dEdcDb92C34752B558030B580d33.png",
+            "tags": [
+                "bridged",
+                "wrapped"
+            ]
+        },
+        {
+            "chainId": 246,
+            "address": "0x74Ff9a96eA3E529332d9a1a7d0aba7A27030F867",
+            "name": "Uniswap",
+            "decimals": 18,
+            "symbol": "UNI",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x74Ff9a96eA3E529332d9a1a7d0aba7A27030F867.png",
+            "tags": [
+                "bridged"
+            ]
+        },
+        {
+            "chainId": 246,
+            "address": "0x84128D6c485753F4921Bf9E06dfED4cd9D06B2e9",
+            "name": "Republic Token",
+            "decimals": 18,
+            "symbol": "REN",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x84128D6c485753F4921Bf9E06dfED4cd9D06B2e9.png",
+            "tags": [
+                "bridged"
+            ]
+        },
+        {
+            "chainId": 246,
+            "address": "0xa208d8aAc0a342597d76960BC7eC1aC0F02b7119",
+            "name": "Truebit",
+            "decimals": 18,
+            "symbol": "TRU",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0xa208d8aAc0a342597d76960BC7eC1aC0F02b7119.png",
+            "tags": [
+                "bridged"
+            ]
+        },
+        {
+            "chainId": 246,
+            "address": "0x1C41d2223dc95605fc4395294e65f170A4Fb1b40",
+            "name": "Susu Party",
+            "decimals": 18,
+            "symbol": "xSUSU",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x1C41d2223dc95605fc4395294e65f170A4Fb1b40.png",
+            "tags": [
+                "green",
+                "native"
+            ]
+        },
+        {
+            "chainId": 246,
+            "address": "0xE4DebcA83E6E120C19c55DB6Fd03673ceAbCD42A",
+            "name": "Robonomics",
+            "decimals": 9,
+            "symbol": "XRT",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0xE4DebcA83E6E120C19c55DB6Fd03673ceAbCD42A.png",
+            "tags": [
+                "bridged"
+            ]
+        },
+        {
+            "chainId": 246,
+            "address": "0xb705DC3500fC74746Da38710caA390504D46AA15",
+            "name": "UniBright",
+            "decimals": 8,
+            "symbol": "UBT",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0xb705DC3500fC74746Da38710caA390504D46AA15.png",
+            "tags": [
+                "bridged"
+            ]
+        },
+        {
+            "chainId": 246,
+            "address": "0xDe8DD08550D68Ca51354542DB4083e37A32e7598",
+            "name": "Morpheus.Network",
+            "decimals": 4,
+            "symbol": "MRPH",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0xDe8DD08550D68Ca51354542DB4083e37A32e7598.png",
+            "tags": [
+                "bridged"
+            ]
+        },
+        {
+            "chainId": 246,
+            "address": "0x913C4B2a3602258089f529bC44720B0D5B62B770",
+            "name": "Alchemist",
+            "decimals": 18,
+            "symbol": "MIST",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x913C4B2a3602258089f529bC44720B0D5B62B770.png",
+            "tags": [
+                "bridged"
+            ]
+        },
+        {
+            "chainId": 246,
+            "address": "0xde248F25E724028eb06Ec8cBD7373013Ab16Cfd5",
+            "name": "LUKSO Token",
+            "decimals": 18,
+            "symbol": "LYXe",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0xde248F25E724028eb06Ec8cBD7373013Ab16Cfd5.png",
+            "tags": [
+                "bridged"
+            ]
+        },
+        {
+            "chainId": 246,
+            "address": "0xcCf4e983B930B97F9cC0d2A20E66AFb781537cFc",
+            "name": "renBTC",
+            "decimals": 8,
+            "symbol": "renBTC",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0xcCf4e983B930B97F9cC0d2A20E66AFb781537cFc.png",
+            "tags": [
+                "wrapped",
+                "bridged"
+            ]
+        },
+        {
+            "chainId": 246,
+            "address": "0x092b1Ab693BB7F4eaA77709170394190E6A27C2F",
+            "name": "Fei USD",
+            "decimals": 18,
+            "symbol": "FEI",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x092b1Ab693BB7F4eaA77709170394190E6A27C2F.png",
+            "tags": [
+                "stablecoin",
+                "bridged"
+            ]
+        },
+        {
+            "chainId": 246,
+            "address": "0x9cd9CAECDC816C3E7123A4F130A91A684D01f4Dc",
+            "name": "Susu Token",
+            "decimals": 18,
+            "symbol": "SUSU",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x9cd9CAECDC816C3E7123A4F130A91A684D01f4Dc.png",
+            "tags": [
+                "green",
+                "native"
+            ]
+        },
+        {
+            "chainId": 246,
+            "address": "0x3Dae074A5B125B9847e41b5Ee20aC86D92ab77b1",
+            "name": "Smudge",
+            "decimals": 18,
+            "symbol": "SMUDGE",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x3Dae074A5B125B9847e41b5Ee20aC86D92ab77b1.png",
+            "tags": [
+                "meme",
+                "green",
+                "native"
+            ]
+        },
+        {
+            "chainId": 246,
+            "address": "0x931bAD405C204b27c107D6e62594E74d9e9227f7",
+            "name": "Graph Token",
+            "decimals": 18,
+            "symbol": "GRT",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x931bAD405C204b27c107D6e62594E74d9e9227f7.png",
+            "tags": [
+                "bridged"
             ]
         },
         {
@@ -107,7 +291,7 @@
             "chainId": 246,
             "address": "0x9DaD43ee9E09837aeAca21799c88613e8E7c67dd",
             "name": "USD Coin",
-            "decimals": 18,
+            "decimals": 6,
             "symbol": "USDC",
             "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x9DaD43ee9E09837aeAca21799c88613e8E7c67dd.png",
             "tags": [
@@ -157,9 +341,9 @@
             "name": "SolarCoin",
             "decimals": 18,
             "symbol": "SLR",
-            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x94512DA6dA903606B15d4AfbE12333c1F7F65BeC.png",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x26E4991a72728b1a9B1044345e5bF9293E0A1434.png",
             "tags": [
-                "zerocarbon",
+                "green",
                 "native"
             ]
         },
@@ -172,7 +356,7 @@
             "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x6b3bd0478DF0eC4984b168Db0E12A539Cc0c83cd.png",
             "tags": [
                 "wrapped",
-                "zerocarbon"
+                "green"
             ]
         },
         {
@@ -184,7 +368,7 @@
             "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0xDb8B4264b1777e046267b4Cc123f0C9E029cEB2c.png",
             "tags": [
                 "wrapped",
-                "zerocarbon"
+                "green"
             ]
         },
         {
@@ -207,7 +391,110 @@
             "symbol": "SLR",
             "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x94512DA6dA903606B15d4AfbE12333c1F7F65BeC.png",
             "tags": [
-                "zerocarbon"
+                "green"
+            ]
+        },
+        {
+            "chainId": 73799,
+            "address": "0xDC5b69374207a18e75F7cdCf5176CA63911e690d",
+            "name": "Susu Token",
+            "decimals": 18,
+            "symbol": "SUSU",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0xDC5b69374207a18e75F7cdCf5176CA63911e690d.png",
+            "tags": [
+                "green",
+                "native"
+            ]
+        },
+        {
+            "chainId": 1,
+            "address": "0xE897Ce745C7ab3eC30927F29028eE0BD3DDbf0c7",
+            "name": "Susu Token",
+            "decimals": 18,
+            "symbol": "SUSU",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0xE897Ce745C7ab3eC30927F29028eE0BD3DDbf0c7.png",
+            "tags": [
+                "green",
+                "bridged"
+            ]
+        },
+        {
+            "chainId": 1,
+            "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+            "name": "DAI",
+            "decimals": 18,
+            "symbol": "DAI",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x3862F260e94904aaAe628DdF427b1F662652BBD2.png",
+            "tags": [
+                "stablecoin"
+            ]
+        },
+        {
+            "chainId": 56,
+            "address": "0x4fC53aEA7A4C6e898a8fA2545d725a0B48c614A4",
+            "name": "Wrapped Energy Web Token",
+            "decimals": 18,
+            "symbol": "WEWT",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x4fC53aEA7A4C6e898a8fA2545d725a0B48c614A4.png",
+            "tags": [
+                "bridged",
+                "wrapped",
+                "green"
+            ]
+        },
+        {
+            "chainId": 56,
+            "address": "0xD39E50BFE00e6447aD4492e118bEfb6983df2c4A",
+            "name": "Susu Token",
+            "decimals": 18,
+            "symbol": "SUSU",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0xD39E50BFE00e6447aD4492e118bEfb6983df2c4A.png",
+            "tags": [
+                "green",
+                "bridged"
+            ]
+        },
+        {
+            "chainId": 56,
+            "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+            "name": "BUSD Token",
+            "decimals": 18,
+            "symbol": "BUSD",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.png",
+            "tags": [
+                "stablecoin"
+            ]
+        },
+        {
+            "chainId": 56,
+            "address": "0x772543750Ea54c393c2E3BE4Ae48F2616631F38F",
+            "name": "Smudge",
+            "decimals": 18,
+            "symbol": "SMUDGE",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x772543750Ea54c393c2E3BE4Ae48F2616631F38F.png",
+            "tags": [
+                "green",
+                "meme",
+                "bridged"
+            ]
+        },
+        {
+            "chainId": 56,
+            "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+            "name": "PancakeSwap Token",
+            "decimals": 18,
+            "symbol": "Cake",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
+        },
+        {
+            "chainId": 56,
+            "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+            "name": "Wrapped BNB",
+            "decimals": 18,
+            "symbol": "WBNB",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png",
+            "tags": [
+                "wrapped"
             ]
         }
     ]
