@@ -496,6 +496,17 @@
             "tags": [
                 "wrapped"
             ]
+        },
+             {
+            "chainId": 56,
+            "address": "0x5d36F106F9CB3da9C59F550B1Ac03f7D57Ea072d",
+            "name": "Polkadot token",
+            "decimals": 18,
+            "symbol": "DOT",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x5d36F106F9CB3da9C59F550B1Ac03f7D57Ea072d.png",
+            "tags": [
+                "bridged"
+            ]
         }
     ]
 }
