@@ -4,7 +4,7 @@
     "version": {
         "major": 1,
         "minor": 7,
-        "patch": 9
+        "patch": 11
     },
     "keywords": [
         "susu",
@@ -49,10 +49,21 @@
     "tokens": [
         {
             "chainId": 246,
-            "address": "0x03Ac08Fbf34e969733DDC77E6E71E65494b5c380",
-            "name": "BUSD Token",
+            "address": "0x5d36F106F9CB3da9C59F550B1Ac03f7D57Ea072d",
+            "name": "Polkadot Token from BSC",
             "decimals": 18,
-            "symbol": "BUSD",
+            "symbol": "DOT-BSC",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x5d36F106F9CB3da9C59F550B1Ac03f7D57Ea072d.png",
+            "tags": [
+                "bridged"
+            ]
+        },
+        {
+            "chainId": 246,
+            "address": "0x03Ac08Fbf34e969733DDC77E6E71E65494b5c380",
+            "name": "BUSD Token from BSC",
+            "decimals": 18,
+            "symbol": "BUSD-BSC",
             "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x03Ac08Fbf34e969733DDC77E6E71E65494b5c380.png",
             "tags": [
                 "bridged",
@@ -62,9 +73,9 @@
         {
             "chainId": 246,
             "address": "0x984E5dF7E6ed5450f0df08628F9EC4EB33d0f2b0",
-            "name": "PancakeSwap Token",
+            "name": "PancakeSwap Token from BSC",
             "decimals": 18,
-            "symbol": "Cake",
+            "symbol": "Cake-BSC",
             "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x984E5dF7E6ed5450f0df08628F9EC4EB33d0f2b0.png",
             "tags": [
                 "bridged"
@@ -495,17 +506,6 @@
             "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png",
             "tags": [
                 "wrapped"
-            ]
-        },
-        {
-            "chainId": 246,
-            "address": "0x5d36F106F9CB3da9C59F550B1Ac03f7D57Ea072d",
-            "name": "Polkadot Token (BSC)",
-            "decimals": 18,
-            "symbol": "DOT (BSC)",
-            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x5d36F106F9CB3da9C59F550B1Ac03f7D57Ea072d.png",
-            "tags": [
-                "bridged"
             ]
         }
     ]
