@@ -3,7 +3,7 @@
     "timestamp": "2021-02-17T00:00:00.000Z",
     "version": {
         "major": 1,
-        "minor": 7,
+        "minor": 8,
         "patch": 11
     },
     "keywords": [
@@ -47,6 +47,18 @@
         }
     },
     "tokens": [
+        {
+            "chainId": 246,
+            "address": "0x80136021aE70f019D551987f70727bEC4A7bF983",
+            "name": "Tether USD from BSC",
+            "decimals": 18,
+            "symbol": "USDT-BSC",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x80136021aE70f019D551987f70727bEC4A7bF983.png",
+            "tags": [
+                "stablecoin",
+                "bridged"
+            ]
+        },
         {
             "chainId": 246,
             "address": "0x5d36F106F9CB3da9C59F550B1Ac03f7D57Ea072d",
@@ -326,7 +338,7 @@
             "chainId": 246,
             "address": "0x387f7D8D3360588a9A0B417F6C5DaAe64450942e",
             "name": "Tether USD",
-            "decimals": 18,
+            "decimals": 6,
             "symbol": "USDT",
             "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x387f7D8D3360588a9A0B417F6C5DaAe64450942e.png",
             "tags": [
