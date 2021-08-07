@@ -106,6 +106,19 @@
             "tags": [
                 "bridged"
             ]
+        },
+        
+        {
+            "chainId": 246,
+            "address": "0x59b6196e41c118dff75961257b882e86b915a0e8",
+            "name": "Gangster Pug",
+            "decimals": 18,
+            "symbol": "PUG",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x0x59b6196e41c118dff75961257b882e86b915a0e8.png",
+            "tags": [
+                "green",
+                "native"
+            ]
         }
     ]
 }
