@@ -115,7 +115,6 @@
             "symbol": "PUG",
             "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x59b6196e41c118dfF75961257b882e86b915a0e8.png",
             "tags": [
-                "green",
                 "native"
             ]
         },
@@ -127,7 +126,6 @@
             "symbol": "🔋 EWD 🔋",
             "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x16e13C4cCcC031a0D7BAa34bcB39Aaf65b3C1891.png",
             "tags": [
-                "green",
                 "native"
             ]
         }
