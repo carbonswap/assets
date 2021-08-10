@@ -4,7 +4,7 @@
     "version": {
         "major": 1,
         "minor": 3,
-        "patch": 0
+        "patch": 1
     },
     "keywords": [
         "susu",
@@ -121,7 +121,7 @@
         {
             "chainId": 246,
             "address": "0x41c49ef86f513498D9Be19F4E920a6Afbe8Af4Cb",
-            "name": "G$",
+            "name": "GS",
             "decimals": 18,
             "symbol": "G$",
             "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x41c49ef86f513498D9Be19F4E920a6Afbe8Af4Cb.png",
