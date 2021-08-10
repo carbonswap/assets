@@ -3,7 +3,7 @@
     "timestamp": "2021-08-07T00:00:00.000Z",
     "version": {
         "major": 1,
-        "minor": 0,
+        "minor": 2,
         "patch": 0
     },
     "keywords": [
@@ -115,7 +115,17 @@
             "symbol": "PUG",
             "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x59b6196e41c118dfF75961257b882e86b915a0e8.png",
             "tags": [
-                "green",
+                "native"
+            ]
+        },
+        {
+            "chainId": 246,
+            "address": "0x16e13C4cCcC031a0D7BAa34bcB39Aaf65b3C1891",
+            "name": "EnergyWeb Doge",
+            "decimals": 18,
+            "symbol": "EWD",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x16e13C4cCcC031a0D7BAa34bcB39Aaf65b3C1891.png",
+            "tags": [
                 "native"
             ]
         }
