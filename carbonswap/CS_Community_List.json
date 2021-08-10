@@ -3,7 +3,7 @@
     "timestamp": "2021-08-07T00:00:00.000Z",
     "version": {
         "major": 1,
-        "minor": 2,
+        "minor": 3,
         "patch": 0
     },
     "keywords": [
@@ -114,6 +114,28 @@
             "decimals": 18,
             "symbol": "PUG",
             "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x59b6196e41c118dfF75961257b882e86b915a0e8.png",
+            "tags": [
+                "native"
+            ]
+        },
+        {
+            "chainId": 246,
+            "address": "0x41c49ef86f513498D9Be19F4E920a6Afbe8Af4Cb",
+            "name": "G$",
+            "decimals": 18,
+            "symbol": "G$",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x41c49ef86f513498D9Be19F4E920a6Afbe8Af4Cb.png",
+            "tags": [
+                "native"
+            ]
+        },
+        {
+            "chainId": 246,
+            "address": "0x83Ed545185E1480411771FFDb62510f3939f9d9e",
+            "name": "Ammunition",
+            "decimals": 18,
+            "symbol": "AMMO",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x83Ed545185E1480411771FFDb62510f3939f9d9e.png",
             "tags": [
                 "native"
             ]
