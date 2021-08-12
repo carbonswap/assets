@@ -1,0 +1,155 @@
+{
+    "name": "CS Community List",
+    "timestamp": "2021-08-07T00:00:00.000Z",
+    "version": {
+        "major": 1,
+        "minor": 3,
+        "patch": 1
+    },
+    "keywords": [
+        "susu",
+        "carbonswap",
+        "communtiy",
+        "exchange",
+        "finance",
+        "dex"
+    ],
+    "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/community_susu.png",
+    "tags": {
+        "wrapped": {
+            "name": "wrapped",
+            "description": "Tokens that are a wrapped version of their original, holding the same value"
+        },
+        "bridged": {
+            "name": "bridged",
+            "description": "Tokens that are bridged over from another chain"
+        },
+        "native": {
+            "name": "native",
+            "description": "Tokens that are native to the Energy Web Chain"
+        }
+    },
+    "tokens": [
+        {
+            "chainId": 246,
+            "address": "0x1C41d2223dc95605fc4395294e65f170A4Fb1b40",
+            "name": "Susu Party",
+            "decimals": 18,
+            "symbol": "xSUSU",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x1C41d2223dc95605fc4395294e65f170A4Fb1b40.png",
+            "tags": [
+                "native"
+            ]
+        },
+        {
+            "chainId": 246,
+            "address": "0x9cd9CAECDC816C3E7123A4F130A91A684D01f4Dc",
+            "name": "Susu Token",
+            "decimals": 18,
+            "symbol": "SUSU",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x9cd9CAECDC816C3E7123A4F130A91A684D01f4Dc.png",
+            "tags": [
+                "native"
+            ]
+        },
+        {
+            "chainId": 246,
+            "address": "0x3Dae074A5B125B9847e41b5Ee20aC86D92ab77b1",
+            "name": "Smudge",
+            "decimals": 18,
+            "symbol": "SMUDGE",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x3Dae074A5B125B9847e41b5Ee20aC86D92ab77b1.png",
+            "tags": [
+                "native"
+            ]
+        },
+        {
+            "chainId": 73799,
+            "address": "0xDC5b69374207a18e75F7cdCf5176CA63911e690d",
+            "name": "Susu Token",
+            "decimals": 18,
+            "symbol": "SUSU",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0xDC5b69374207a18e75F7cdCf5176CA63911e690d.png",
+            "tags": [
+                "native"
+            ]
+        },
+        {
+            "chainId": 1,
+            "address": "0xE897Ce745C7ab3eC30927F29028eE0BD3DDbf0c7",
+            "name": "Susu Token",
+            "decimals": 18,
+            "symbol": "SUSU",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0xE897Ce745C7ab3eC30927F29028eE0BD3DDbf0c7.png",
+            "tags": [
+                "bridged"
+            ]
+        },
+        {
+            "chainId": 56,
+            "address": "0xD39E50BFE00e6447aD4492e118bEfb6983df2c4A",
+            "name": "Susu Token",
+            "decimals": 18,
+            "symbol": "SUSU",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0xD39E50BFE00e6447aD4492e118bEfb6983df2c4A.png",
+            "tags": [
+                "bridged"
+            ]
+        },
+        {
+            "chainId": 56,
+            "address": "0x772543750Ea54c393c2E3BE4Ae48F2616631F38F",
+            "name": "Smudge",
+            "decimals": 18,
+            "symbol": "SMUDGE",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x772543750Ea54c393c2E3BE4Ae48F2616631F38F.png",
+            "tags": [
+                "bridged"
+            ]
+        },
+        {
+            "chainId": 246,
+            "address": "0x59b6196e41c118dfF75961257b882e86b915a0e8",
+            "name": "Gangster Pug",
+            "decimals": 18,
+            "symbol": "PUG",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x59b6196e41c118dfF75961257b882e86b915a0e8.png",
+            "tags": [
+                "native"
+            ]
+        },
+        {
+            "chainId": 246,
+            "address": "0x41c49ef86f513498D9Be19F4E920a6Afbe8Af4Cb",
+            "name": "GS",
+            "decimals": 18,
+            "symbol": "G$",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x41c49ef86f513498D9Be19F4E920a6Afbe8Af4Cb.png",
+            "tags": [
+                "native"
+            ]
+        },
+        {
+            "chainId": 246,
+            "address": "0x83Ed545185E1480411771FFDb62510f3939f9d9e",
+            "name": "Ammunition",
+            "decimals": 18,
+            "symbol": "AMMO",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x83Ed545185E1480411771FFDb62510f3939f9d9e.png",
+            "tags": [
+                "native"
+            ]
+        },
+        {
+            "chainId": 246,
+            "address": "0x16e13C4cCcC031a0D7BAa34bcB39Aaf65b3C1891",
+            "name": "EnergyWeb Doge",
+            "decimals": 18,
+            "symbol": "EWD",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x16e13C4cCcC031a0D7BAa34bcB39Aaf65b3C1891.png",
+            "tags": [
+                "native"
+            ]
+        }
+    ]
+}
