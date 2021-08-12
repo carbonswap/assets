@@ -151,5 +151,17 @@
                 "native"
             ]
         }
+
+        {
+            "chainId": 246,
+            "address": "0x81088F3418380d0f8E3501676021590143E16254",
+            "name": "FROGGY",
+            "decimals": 9,
+            "symbol": "FROGGY",
+            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x81088F3418380d0f8E3501676021590143E16254.png",
+            "tags": [
+                "native"
+            ]
+        }
     ]
 }
