@@ -519,6 +519,46 @@
             "tags": [
                 "wrapped"
             ]
+        },
+        {
+            "chainId": 246,
+            "address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+            "name": "Wrapped SHIBA INU",
+            "decimals": 18,
+            "symbol": "WSHIB",
+            "logoURI": "https://github.com/loot-cl/assets/blob/e2fcfdf862a79d5294f4cac776934cc1fabc00c9/carbonswap/logo/WSHIB-EWC.png",
+            "tags": [
+                "bridged",
+                "wrapped",
+                "meme"
+            ]
+        },
+         {
+            "chainId": 246,
+            "address": "0x27C70Cd1946795B66be9d954418546998b546634",
+            "name": "Wrapped LEASH",
+            "decimals": 18,
+            "symbol": "WLEASH",
+            "logoURI": "https://github.com/loot-cl/assets/blob/e2fcfdf862a79d5294f4cac776934cc1fabc00c9/carbonswap/logo/WLEASH-EWC.png",
+            "tags": [
+                "bridged",
+                "wrapped",
+                "meme"
+            ]
+        },
+         {
+            "chainId": 246,
+            "address": "0x9813037ee2218799597d83d4a5b6f3b6778218d9",
+            "name": "Wrapped BONE SHIBASWAP",
+            "decimals": 18,
+            "symbol": "WBONE",
+            "logoURI": "https://github.com/loot-cl/assets/blob/e2fcfdf862a79d5294f4cac776934cc1fabc00c9/carbonswap/logo/WBONE-EWC.png",
+            "tags": [
+                "bridged",
+                "wrapped",
+                "meme"
+            ]
         }
+          
     ]
 }
