@@ -521,7 +521,7 @@
             ]
         },
         {
-            "chainId": 56,
+            "chainId": 246,
             "address": "0x16e13C4cCcC031a0D7BAa34bcB39Aaf65b3C1891",
             "name": "EnergyWeb Doge",
             "decimals": 18,
