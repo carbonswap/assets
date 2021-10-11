@@ -3,7 +3,7 @@
     "timestamp": "2021-08-07T00:00:00.000Z",
     "version": {
         "major": 1,
-        "minor": 4,
+        "minor": 5,
         "patch": 0
     },
     "keywords": [
@@ -136,17 +136,6 @@
             "decimals": 18,
             "symbol": "AMMO",
             "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x83Ed545185E1480411771FFDb62510f3939f9d9e.png",
-            "tags": [
-                "native"
-            ]
-        },
-        {
-            "chainId": 246,
-            "address": "0x16e13C4cCcC031a0D7BAa34bcB39Aaf65b3C1891",
-            "name": "EnergyWeb Doge",
-            "decimals": 18,
-            "symbol": "EWD",
-            "logoURI": "https://raw.githubusercontent.com/carbonswap/assets/master/carbonswap/logo/0x16e13C4cCcC031a0D7BAa34bcB39Aaf65b3C1891.png",
             "tags": [
                 "native"
             ]
