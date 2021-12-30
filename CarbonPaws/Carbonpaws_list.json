@@ -155,6 +155,17 @@
         "tags": [
             "bridged"
         ]
+    },
+    {
+        "chainId": 246,
+        "address": "0x312Da1D704fe871435968c4C2f987cDc1287F78A",
+        "name": "PAX Gold",
+        "decimals": 18,
+        "symbol": "WPAXG",
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x312Da1D704fe871435968c4C2f987cDc1287F78A/logo.png",
+        "tags": [
+            "bridged"
+        ]
     }
   ]
 }
