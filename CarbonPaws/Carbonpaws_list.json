@@ -145,6 +145,17 @@
             "bridged"
         ]
     },
+      {
+        "chainId": 246,
+        "address": "0xCffa209C306ba898357B7e9d47A0cBf724cD77AE",
+        "name": "Nature Carbon Tonne",
+        "decimals": 18,
+        "symbol": "WNCT",
+        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x2F800Db0fdb5223b3C3f354886d907A671414A7F/logo.png",
+        "tags": [
+            "bridged"
+        ]
+    },
     {
         "chainId": 246,
         "address": "0xA0Bf7285394026C452a6dd571b189733AD1d5834",
