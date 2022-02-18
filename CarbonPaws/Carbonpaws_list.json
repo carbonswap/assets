@@ -137,10 +137,10 @@
       {
         "chainId": 246,
         "address": "0x62250f0b6a9923a19412469ad09f37a2aa367eda",
-        "name": "Toucan Protocol",
+        "name": "Base Carbon Tonne",
         "decimals": 18,
         "symbol": "WBCT",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x2F800Db0fdb5223b3C3f354886d907A671414A7F/logo.png",
+        "logoURI": "https://raw.githubusercontent.com/EWDOGE/assets/master/CarbonPaws/logo/0x62250F0B6a9923a19412469ad09F37A2aA367eda.png",
         "tags": [
             "bridged"
         ]
@@ -151,7 +151,7 @@
         "name": "Nature Carbon Tonne",
         "decimals": 18,
         "symbol": "WNCT",
-        "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x2F800Db0fdb5223b3C3f354886d907A671414A7F/logo.png",
+        "logoURI": "https://raw.githubusercontent.com/EWDOGE/assets/master/CarbonPaws/logo/0xCffa209C306ba898357B7e9d47A0cBf724cD77AE.png",
         "tags": [
             "bridged"
         ]
@@ -174,6 +174,17 @@
         "decimals": 18,
         "symbol": "WPAXG",
         "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x312Da1D704fe871435968c4C2f987cDc1287F78A/logo.png",
+        "tags": [
+            "bridged"
+        ]
+    },
+    {
+        "chainId": 246,
+        "address": "0x6838DB4cce81e0c8fA20Ae6909d4FC9CfEF39db7",
+        "name": "USD Coin",
+        "decimals": 18,
+        "symbol": "WUSDC",
+        "logoURI": "https://raw.githubusercontent.com/EWDOGE/assets/master/CarbonPaws/logo/0x6838DB4cce81e0c8fA20Ae6909d4FC9CfEF39db7.png",
         "tags": [
             "bridged"
         ]
