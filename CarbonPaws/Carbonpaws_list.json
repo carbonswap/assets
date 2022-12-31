@@ -3,7 +3,7 @@
   "timestamp": "2021-12-29T00:00:00.000Z",
   "version": {
       "major": 1,
-      "minor": 2,
+      "minor": 3,
       "patch": 0
   },
   "keywords": [
@@ -187,6 +187,17 @@
         "logoURI": "https://raw.githubusercontent.com/EWDOGE/assets/master/CarbonPaws/logo/0x6838DB4cce81e0c8fA20Ae6909d4FC9CfEF39db7.png",
         "tags": [
             "bridged"
+        ]
+    },
+    {
+        "chainId": 246,
+        "address": "0xc6c6239614723298591f16bB2f779C9199b5AB1a",
+        "name": "SeaShell",
+        "decimals": 18,
+        "symbol": "SHL",
+        "logoURI": "https://raw.githubusercontent.com/EWDOGE/assets/master/CarbonPaws/logo/0xc6c6239614723298591f16bB2f779C9199b5AB1a.png",
+        "tags": [
+            "native"
         ]
     }
   ]
